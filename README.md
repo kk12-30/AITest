@@ -14,6 +14,8 @@
 **AITest** 是一个突破性的自动化渗透测试平台，旨在通过**递归式多智能体 (Recursive Multi-Agent)** 架构，模拟人类安全专家的思维与操作流程。与传统扫描器不同，AITest 不仅仅是执行预定义的脚本，它具备**观察 (Observe)**、**思考 (Think)** 和 **行动 (Act)** 的能力。
 
 系统由一个主控智能体 (Root Agent) 和多个专业领域的子智能体 (Sub-Agents) 组成。它们能够自主协作，从信息收集开始，逐步深入到漏洞发现与利用，并对发现的资产进行递归式的深度分析。
+![image](https://github.com/kk12-30/AITest/blob/main/t1.png)
+
 
 ## ✨ 核心特性
 
